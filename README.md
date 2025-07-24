@@ -30,10 +30,10 @@
 
 ---
 
-## 🌐 Reach Out
+## 🌐 Connect with Me
 
-📫 **zaid@example.com**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourwebsite.com)
+- 📧 Email: [zaidaziz139@gmail.com](mailto:zaidaziz139@gmail.com)
+- 🧠 GitHub: [github.com/zaidaziz](https://github.com/zaidaziz)
 
 ---
 
