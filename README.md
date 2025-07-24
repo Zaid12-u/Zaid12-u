@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">✨ Zaid — Welcome to My Dev World ✨</h1>
 
-<!--
-**Zaid12-u/Zaid12-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 CS Student | 👨‍💻 MERN Developer | 📊 Aspiring Data Scientist <br/>
+  🔥 Turning ideas into real-world solutions 💥
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Passionate about logic, data, and clean code  
+- 🛠️ Building web apps with **MERN Stack**, exploring **AI & Data Science**  
+- 💡 Always learning, always building
+
+---
+
+## 🚀 Tech Stack
+
+`C++` `Java` `Python` `JavaScript` `React` `Node.js`  
+`Express` `MongoDB` `MySQL` `Tailwind CSS` `Appwrite`
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidaziz&show_icons=true&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+## 🌐 Reach Out
+
+📫 **zaid@example.com**  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourwebsite.com)
+
+---
+
+<p align="center"><i>“Code with logic. Build with purpose.”</i></p>
