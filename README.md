@@ -33,7 +33,7 @@
 ## 🌐 Connect with Me
 
 - 📧 Email: [zaidaziz139@gmail.com](mailto:zaidaziz139@gmail.com)
-- 🧠 GitHub: [github.com/zaidaziz](https://github.com/zaidaziz)
+- 🧠 GitHub: [github.com/zaida12-u(https://github.com/zaid12-u)
 
 ---
 
